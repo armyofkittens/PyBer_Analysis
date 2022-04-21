@@ -15,6 +15,6 @@ When looking month to month in total fares by city type, nothing stands out as r
 </p>
 
 ## Summary
-* Marketing should focus on recruiting more drivers in suburban and rural areas. Despite higher earnings, the demand for rides exceeds the number of available drivers. 
 * Increase ride fares in urban cities to increase earning potential for drivers. Decrease fare in rural cities as increased earnings don't seem to incentivize the number of drivers that are available. 
+* Marketing should focus on recruiting more drivers in suburban and rural areas. Despite higher earnings, the demand for rides exceeds the number of available drivers. 
 * Incentivize drivers to take rides in Suburban and Rural areas in order to better distribute the fleat and improve customer experience. 
