@@ -8,7 +8,7 @@ The total number of rides and total drivers followed an expected trend, decreasi
   <img src="https://github.com/armyofkittens/PyBer_Analysis/blob/main/analysis/Fig8.png" width="700"/>
 </p>
 
-When looking month to month in total fares by city type, nothing stands out as remarkable. As expected, urban cities have a significant advantage in month to month fare earnings compared to suburban and rural cities. The biggest takeaway is that upticks in total fare seem to occur at the same times of the month across all city types, particularly in late February. 
+When looking month to month in total fares by city type, nothing stands out as remarkable. As expected, urban cities have a significant advantage in month to month fare earnings compared to suburban and rural cities. The biggest takeaway is that upticks in total fare seem to occur at the same times of the month across all city types, particularly in late February of 2019. 
 
 <p align="left">
   <img src="https://github.com/armyofkittens/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png" width="700"/>
